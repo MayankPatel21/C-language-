@@ -13,5 +13,5 @@ int main()
    printf("The value of b is %d\n",b);
    
    sub=a-b;
-   printf("The sum is %d",sub);
+   printf("The substraction is %d",sub);
 }
